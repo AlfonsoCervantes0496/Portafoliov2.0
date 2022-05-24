@@ -13,7 +13,7 @@
       "posgres",
       "axios"
     ],
-    "src": "https://todoapplicationa.herokuapp.com/todos",
+    "src": "https://todoapplicationa.herokuapp.com",
     "Descripcion": "Es un proyecto de listad de tareas por hacer conb un acceso por cuenta de gmail  y creacion de Api en el Back-end para almacenar las tareas"
   },
   {
