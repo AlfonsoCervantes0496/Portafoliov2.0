@@ -1,0 +1,61 @@
+[
+  {
+    "id": "01",
+    "Nombre": "Todo-API-Node-Vue",
+    "tecnologias": [
+      "vue",
+      "Node.js",
+      "Firebase",
+      "bootstrap",
+      "Vuex",
+      "express js",
+      "Sequelize",
+      "posgres",
+      "axios"
+    ],
+    "src": "https://todoapplicationa.herokuapp.com/todos",
+    "Descripcion": "Es un proyecto de listad de tareas por hacer conb un acceso por cuenta de gmail  y creacion de Api en el Back-end para almacenar las tareas"
+  },
+  {
+    "id": "02",
+    "Nombre": "Git-hub-vue",
+    "tecnologias": ["vue", "Vuex", "bootstrap"],
+    "src": "https://git-api-vue.vercel.app/",
+    "Descripcion": "Es un proyecto que consume la API git hub Api para buscar informacion de perfiles de git Hub"
+  },
+  {
+    "id": "03",
+    "Nombre": "Vuex",
+    "tecnologias": ["vue", "Vuex", "bootstrap"],
+    "src": "https://vuex-one.vercel.app/",
+    "Descripcion": "Es un proyecto con un ejercicio de vuex de para consumir api de Rick y morty"
+  },
+  {
+    "id": "04",
+    "Nombre": "Buscador imagenes",
+    "tecnologias": ["vue", "Vuex", "bootstrap"],
+    "src": "https://imgs-vue.vercel.app/",
+    "Descripcion": "Es un proyecto con un buscador de imagenes seleccionar y imagenes preferidas"
+  },
+  {
+    "id": "05",
+    "Nombre": "Git-Api-React",
+    "tecnologias": ["React"],
+    "src": "https://vercel.com/alfonsocervantes0496/gha-pic",
+    "Descripcion": "Es un proyecto con un ejercicio de de consumo de Api Git Hub  Api construido con React"
+  },
+  {
+    "id": "06",
+    "Nombre": "Todo",
+    "tecnologias": ["React"],
+    "img": "https://todo-list-mu-navy.vercel.app/",
+    "Descripcion": "Es un ejecicio de creacion de tareas con react"
+  },
+  {
+    "id": "07",
+    "Nombre": "Trivia",
+    "tecnologias": ["HTML", "Vanilla Javascript"],
+    "src": "https://trivia-lemon-alpha.vercel.app/",
+    "Descripcion": "Es un proyecto que utiliza una api para crear una trivia de temas diversos"
+  }
+]
